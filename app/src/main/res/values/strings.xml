@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">flytraps and roses</string>
+    <string name="lives">Lives: 2 </string>
+    <string name="splash_desc">splash screen</string>
+</resources>
